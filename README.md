@@ -47,5 +47,5 @@ Also experienced in delivering live MERN Stack training and creating recorded te
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/gopika-deepak-309807227/)
-- Email: gopikadeepakcse@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/gopika-deepak)
+- Email: gopika.deepak.26@gmail.com
